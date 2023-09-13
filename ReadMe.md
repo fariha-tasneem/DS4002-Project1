@@ -4,12 +4,15 @@ See file
 ### Data Dictionary
 | Column| Description| Potential Reponses|                   
 |-------|------------|-------------------|
-| Timestamp | indicates the month/day/year and hour, minute, and second that the responder completed the survey |month/day/year, hour:minute:second|
-| Email| Provides the email address of the person filling out the form| any string containing a valid email address|
-| Sandwich| Answers the question: Is a hot dog a sandwich?| "Yes" indicates that the responder believes that a hot dog is a sandwich, "No" indicates that the responder believes that a hot dog is not a sandwich |
+| Title | The book's title | string format|
+| Description | A description of the book | Can be a basic summary of the book/provide details for the book |
+| Author | Name(s) of the book author(s) | i.e. "Veronica Haddon" |
+| Publisher | Name of the book publisher | i.e. "iUniverse" |
+| publishedDate | The date the book was published | i.e. "2020-08-06" |
+| Category/Genre | The genre(s) of the book | i.e "Fiction" or "Nonfiction"|
+| User_id| Provides the ID of the user who provided the rating| a sequence of letters and numbers |
+| profileName| Profile name of the user who provided the book rating | i.e. "John Doe" |
+| review/helpfulness| Helpfulness rating of review | i.e. "7/7" or "74/81" |
+| review/score| Rating from 0 to 5 for the book | i.e. "4" or "2" |
+| review/text| The full text of an amazon book review | i.e. "This book was really good." |
 
-### Chart
-<img width="402" alt="Screen Shot 2023-08-30 at 1 46 19 PM" src="https://github.com/Shreya-Naga/DS-4002/assets/104798728/73f036f3-3788-4adb-b895-3ae54c642c20">
-
-
-Note: when participants filled out the survey, there was an optional short-response question titled "Gimme a hot take". This feature was removed due to spicy comments
