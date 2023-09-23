@@ -1,7 +1,21 @@
 # SRC
 
-### Data File
-See file 
+### Installing/Building Code
+To install/build the code, VSCode and the Jupyter Notebook extension or Jupyter Notebook is required. Then, the script and dataset is required to run the code. Ensure the correct directory is specified for the dataset before running the code. 
+
+Required libraries:
+- pandas
+- textblob
+- matplotlib
+- wordcloud
+
+### Usage of Code
+
+
+# DATA
+
+### Link to Dataset
+[See file](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)
 
 ### Data Dictionary
 | Column| Description| Potential Reponses|                   
@@ -18,3 +32,7 @@ See file
 | review/score| Rating from 0 to 5 for the book | i.e. "4" or "2" |
 | review/text| The full text of an amazon book review | i.e. "This book was really good." |
 
+# FIGURES
+
+
+# REFERENCES
