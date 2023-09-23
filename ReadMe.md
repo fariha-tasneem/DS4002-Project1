@@ -10,7 +10,7 @@ Required libraries:
 - wordcloud
 
 ### Usage of Code
-
+The code can be used to replicate our analysis or build upon it.
 
 # DATA
 
