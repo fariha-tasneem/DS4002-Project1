@@ -1,9 +1,12 @@
 # DS 4002 Project 1
 
 ## Table of Contents
-[SRC](#SRC)  - This section contains all the source code for our project.
-[DATA](#Data)  - This section contains cleaning.ipynb, where we cleaned the original dataset from Kaggle and also completed our initial exploratory data analysis. This folder also contains analysis.ipynb, where we wrote the cleaned dataframe to a CSV file "top_30_genres.csv". Our main analysis is contained within analysis.ipynb.
-[FIGURES](#Figures)  - This section contains all figures from our main analysis phase, as well as a description of their key takeaways.
+[SRC](#SRC)  - This section contains all the source code for our project, which includes cleaning.ipynb, where we cleaned the original dataset from Kaggle and also completed our initial exploratory data analysis, as well as analysis.ipynb, which contains the main analysis of our project.
+
+[DATA](#Data)  - This section contains "top_30_genres.csv". This is the dataset we wrote to csv from the cleaned dataframe during our initial exploratory phase.
+
+[FIGURES](#Figures)  - This section contains all figures from our main analysis phase, as well as descriptions of their key takeaways.
+
 [References](#References)  - This section contains all references that were used throughout the project, as well as links to the MI1 and MI2 Assignments.
 
 ## SRC
