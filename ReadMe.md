@@ -8,7 +8,8 @@ Required libraries:
 - textblob
 - matplotlib
 - wordcloud
-- textblob
+
+For cleaning.ipynb, we used the datasets from Kaggle to establish our project dataset. This entails dropping rows with missing values, specifying which columns we wanted to keep, etc. Then, we were able to write the cleaned up dataframe to a CSV file called "top_30_genres.csv" (this file is in the "Data" folder in this repository). cleaning.ipynb also contains our initial exploratory data analysis. In analysis.ipynb, we used the "top_30_genres.csv" file to conduct our main analysis to investigate our hypothesis.
 
 ### Usage of Code
 The code can be used to replicate our analysis or build upon it.
