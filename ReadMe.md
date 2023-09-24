@@ -45,7 +45,7 @@ The code can be used to replicate our analysis or build upon it.
 | Figure 4 | Name of the book publisher | i.e. "iUniverse" |
 
 
-# REFERENCES
+# REFERENCES 
 [1] "Amazon Books Reviews" Dataset, Kaggle. [Online]. Available: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=Books_rating.csv. [Accessed: 09-Sep-2023]
 
 [2] E.-R. Luţan and C. Bădică, "Emotion-Based Literature Book Classification Using Online Reviews," Electronics, vol. 11, p. 3412, 2022. [Online]. Available: https://doi.org/10.3390/electronics11203412. [Accessed: 09-Sep-2023].
@@ -53,3 +53,7 @@ The code can be used to replicate our analysis or build upon it.
 [3] "Poll Shows Continuing Strong American Reading Habits," Gallup, [Online]. Available: https://news.gallup.com/poll/3562/poll-shows-continuing-strong-american-reading-habits.aspx. [Accessed: 09-Sep-2023]. 
 
 [4] T. A. Team, “Sentiment analysis with logistic regression,” Towards AI, https://towardsai.net/p/nlp/sentiment-analysis-with-logistic-regression [Accessed: 10-Sep-2023]. 
+
+### MI1 and MI2 Assignments
+MI1 Assigment: https://docs.google.com/document/d/1gfmBZ31x9V9vEbQJCZwRirUR76DM6iHGpRKLZxJ86ek/edit?usp=sharing
+MI2 Assignment: https://docs.google.com/document/d/10TgF1NxPdTjxaYZGttimPwlkUSGeDwzdhq_BBxlI6IM/edit?usp=sharing
