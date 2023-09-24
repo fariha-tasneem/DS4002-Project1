@@ -3,7 +3,7 @@
 ## Table of Contents
 [SRC](#SRC)  - This section contains all the source code for our project, which includes cleaning.ipynb, where we cleaned the original dataset from Kaggle and also completed our initial exploratory data analysis, as well as analysis.ipynb, which contains the main analysis of our project.
 
-[DATA](#Data)  - This section contains "top_30_genres.csv". This is the dataset we wrote to csv from the cleaned dataframe during our initial exploratory phase.
+[DATA](#Data)  - This section contains "top_30_genres.csv". This is the dataset used to run analysis.ipynb.
 
 [FIGURES](#Figures)  - This section contains all figures from our main analysis phase, as well as descriptions of their key takeaways.
 
