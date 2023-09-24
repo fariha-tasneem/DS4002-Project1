@@ -8,6 +8,7 @@ Required libraries:
 - textblob
 - matplotlib
 - wordcloud
+- textblob
 
 ### Usage of Code
 The code can be used to replicate our analysis or build upon it.
