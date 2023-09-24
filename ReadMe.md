@@ -56,4 +56,5 @@ The code can be used to replicate our analysis or build upon it.
 
 ### MI1 and MI2 Assignments
 MI1 Assigment: https://docs.google.com/document/d/1gfmBZ31x9V9vEbQJCZwRirUR76DM6iHGpRKLZxJ86ek/edit?usp=sharing
+
 MI2 Assignment: https://docs.google.com/document/d/10TgF1NxPdTjxaYZGttimPwlkUSGeDwzdhq_BBxlI6IM/edit?usp=sharing
