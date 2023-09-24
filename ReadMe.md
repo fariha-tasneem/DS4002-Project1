@@ -1,4 +1,12 @@
-# SRC
+# DS 4002 Project 1
+
+## Table of Contents
+[SRC](#SRC)  
+[DATA](#Data)  
+[FIGURES](#Figures)  
+[References](#References)  
+
+## SRC
 
 ### Installing/Building Code
 To install/build the code, VSCode and the Jupyter Notebook extension or Jupyter Notebook is required. Then, the script and dataset is required to run the code. Ensure the correct directory is specified for the dataset before running the code. 
@@ -14,7 +22,7 @@ For cleaning.ipynb, we used the datasets from Kaggle to establish our project da
 ### Usage of Code
 The code can be used to replicate our analysis or build upon it.
 
-# DATA
+## DATA
 
 ### Link to Dataset
 [See file](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)
@@ -34,7 +42,7 @@ The code can be used to replicate our analysis or build upon it.
 | review/score| Rating from 0 to 5 for the book | i.e. "4" or "2" |
 | review/text| The full text of an amazon book review | i.e. "This book was really good." |
 
-# FIGURES
+## FIGURES
 
 ### Figures Table
 | Column| Description| Potential Reponses|                   
@@ -45,7 +53,7 @@ The code can be used to replicate our analysis or build upon it.
 | Figure 4 | Name of the book publisher | i.e. "iUniverse" |
 
 
-# REFERENCES 
+## REFERENCES 
 [1] "Amazon Books Reviews" Dataset, Kaggle. [Online]. Available: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=Books_rating.csv. [Accessed: 09-Sep-2023]
 
 [2] E.-R. Luţan and C. Bădică, "Emotion-Based Literature Book Classification Using Online Reviews," Electronics, vol. 11, p. 3412, 2022. [Online]. Available: https://doi.org/10.3390/electronics11203412. [Accessed: 09-Sep-2023].
