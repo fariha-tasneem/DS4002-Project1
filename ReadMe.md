@@ -34,5 +34,13 @@ The code can be used to replicate our analysis or build upon it.
 
 # FIGURES
 
+### Figures Table
+| Column| Description| Potential Reponses|                   
+|-------|------------|-------------------|
+| Figure 1 | The book's title | string format|
+| Figure 2 | A description of the book | Can be a basic summary of the book/provide details for the book |
+| Figure 3 | Name(s) of the book author(s) | i.e. "Veronica Haddon" |
+| Figure 4 | Name of the book publisher | i.e. "iUniverse" |
+
 
 # REFERENCES
