@@ -48,12 +48,11 @@ The code can be used to replicate our analysis or build upon it.
 ## FIGURES
 
 ### Figures Table
-| Column| Description| Potential Reponses|                   
+| Column| Description| Plot Type|                   
 |-------|------------|-------------------|
-| Figure 1 | The book's title | string format|
-| Figure 2 | A description of the book | Can be a basic summary of the book/provide details for the book |
-| Figure 3 | Name(s) of the book author(s) | i.e. "Veronica Haddon" |
-| Figure 4 | Name of the book publisher | i.e. "iUniverse" |
+| Figure 1 | This is a boxplot that shows the sentiment scores of the 30 genres with the most number of reviews. Using the libraries seaborn and matplotlib.pyplot, we created this boxplot where the x-axis is the categories and the y-axis the the sentiment score. This sentiment score was assigned to each genre using a built in function called analysis.sentiment.polarity in the TextBlob library. This graph clearly highlights the fact that all of these genre's sentiment scores are similar as they all lie around 0.25. This is means that on average, most genres have reviews with slightly positive sentiments. | Box Plot|
+| Figure 2 | This is a barplot that shows the sentiment score of each of the 30 genres with the largest number of reviews. Using the libraries seaborn and matplotlib.pyplot, we created this boxplot where the x-axis is the categories and the y-axis the the sentiment score. This sentiment score was assigned to each genre using a built in function called analysis.sentiment.polarity in the TextBlob library. For this plot, we decreased the range of the y-axis so we would be able to see more variation within the sentiment. It is clear that juvenile nonfiction, cooking, crafts and hobbies, and education have the highest rating for sentiment score which means they are probably the most well-liked genres. Still, though, there is not much variation between the genres as all of their sentiment scores lie right around 0.25. | Bar Plot |
+
 
 
 ## REFERENCES 
